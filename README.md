@@ -33,7 +33,7 @@ Methodology/Resources: real-time crops database, data analytics, Android/iOS app
 
 
 
-3- Title: Lucy helps keep our seniors happy and  engaged (Blog Project #5) 
+3- Title: Alexa As your Friend 
 
 Description: To serve the purpose of the Amazon Alexa, the device follows the user' commands. Some desired features are: proactively suggesting any activity depending upon the user's preference, collecting the user's habits and learning to integrate them into Alexa memory. Alexa is set to talk to the user under the assigned schedule. 
 
