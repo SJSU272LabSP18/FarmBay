@@ -12,7 +12,16 @@ Manisha Shivshette
 
 Thien Nguyen
 
+## I am tweaking your Smart Harvesting Mobile app to the following
+Develop an auction marketplace for Farmers call it FarmBay (sounds like eBay)
+Here 
+a)Farmers can enter the parameters and not just get the farming suggestion, but also predict the yield 
+b) they can put their crop yield for auction
+c) merchants can bid for their future yield or present stock
+so basically an ML powered platform to connect farmers with merchants and wholesellers.
 
+You would need to include weatherAPI, crop related informations and algorithm to predict the yield
+You would also need to create auction transaction framework (you might choose blockchain for that)
 
 
 
