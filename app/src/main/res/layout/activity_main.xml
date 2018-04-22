@@ -11,11 +11,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:layout_alignParentStart="true"
-        android:layout_marginBottom="176dp"
-        android:layout_marginStart="56dp"
-        android:background="@color/colorPrimaryDark"
-        android:backgroundTint="@color/colorPrimaryDark"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="174dp"
+        android:background="#1809ee"
+        android:backgroundTint="#1809ee"
         android:text="Facebook"
         android:textColor="@android:color/background_light"
         app:layout_constraintStart_toStartOf="parent"
@@ -41,10 +40,10 @@
 
     <com.google.android.gms.common.SignInButton
         android:id="@+id/googlebtn"
-        android:layout_width="250dp"
+        android:layout_width="231dp"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="103dp"></com.google.android.gms.common.SignInButton>
+        android:layout_marginBottom="109dp"></com.google.android.gms.common.SignInButton>
 
 </RelativeLayout>
