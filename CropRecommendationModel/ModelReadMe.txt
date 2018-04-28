@@ -1,0 +1,1 @@
+Details Regarding Crop Recommendation Model
