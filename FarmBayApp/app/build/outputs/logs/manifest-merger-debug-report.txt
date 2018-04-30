@@ -75,7 +75,7 @@ ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Projec
 	android:name
 		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:8:22-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:10:5-66
+ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:9:5-67
 MERGED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\manas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\61a640699b83c8219751fff864fba57d\AndroidManifest.xml:20:5-66
 MERGED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\manas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\61a640699b83c8219751fff864fba57d\AndroidManifest.xml:20:5-66
 MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\manas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\e7bee37fad2a9916d5c40c6df1569c3b\AndroidManifest.xml:20:5-66
@@ -83,9 +83,9 @@ MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\manas\
 MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\manas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\77a74adba733093068e24a15563782ef\AndroidManifest.xml:20:5-66
 MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\manas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\77a74adba733093068e24a15563782ef\AndroidManifest.xml:20:5-66
 	android:name
-		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:10:22-64
+		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:9:22-64
 application
-ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:12:5-50:19
+ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:11:5-50:19
 MERGED from [com.google.firebase:firebase-core:11.6.0] C:\Users\manas\.gradle\caches\transforms-1\files-1.1\firebase-core-11.6.0.aar\cd9b17feab28b88909b31f5d026cf9e0\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-core:11.6.0] C:\Users\manas\.gradle\caches\transforms-1\files-1.1\firebase-core-11.6.0.aar\cd9b17feab28b88909b31f5d026cf9e0\AndroidManifest.xml:5:5-20
 MERGED from [com.facebook.android:facebook-login:4.32.0] C:\Users\manas\.gradle\caches\transforms-1\files-1.1\facebook-login-4.32.0.aar\fa7e2def60f67f93f96b49f124b86d04\AndroidManifest.xml:28:5-29:19
@@ -135,73 +135,73 @@ MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] C:\User
 MERGED from [com.google.firebase:firebase-iid-license:11.6.0] C:\Users\manas\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.6.0.aar\94b247b1ceea06744c4d70648684bb1b\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-iid-license:11.6.0] C:\Users\manas\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.6.0.aar\94b247b1ceea06744c4d70648684bb1b\AndroidManifest.xml:5:5-20
 	android:supportsRtl
-		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:17:9-35
+		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:16:9-35
 	android:label
-		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:15:9-41
+		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:14:9-41
 	android:roundIcon
-		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:16:9-54
+		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:15:9-54
 	android:icon
-		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:14:9-43
+		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:13:9-43
 	android:allowBackup
-		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:12:9-35
 	android:theme
-		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:18:9-40
+		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:17:9-40
 activity#com.farmbay.MainActivity
-ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:19:9-25:20
+ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:18:9-24:20
 	android:name
-		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:19:19-47
+		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:18:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:20:13-24:29
+ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:19:13-23:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:21:17-69
+ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:20:17-69
 	android:name
-		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:21:25-66
+		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:23:17-77
+ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:23:27-74
+		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:22:27-74
 activity#com.farmbay.MenuActivity
-ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:26:9-50
+ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:25:9-50
 	android:name
-		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:26:19-47
+		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:25:19-47
 activity#com.farmbay.RecommendCropsActivity
-ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:27:9-60
+ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:26:9-60
 	android:name
-		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:27:19-57
+		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:26:19-57
 activity#com.farmbay.CreateBidActivity
-ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:28:9-55
+ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:27:9-55
 	android:name
-		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:28:19-52
+		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:27:19-52
 meta-data#com.facebook.sdk.ApplicationId
-ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:31:9-32:54
+ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:29:9-31:55
 	android:value
-		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:32:13-52
+		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:31:13-52
 	android:name
-		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:31:20-65
+		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:30:13-58
 activity#com.facebook.FacebookActivity
-ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:34:9-37:48
+ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:33:9-36:48
 MERGED from [com.facebook.android:facebook-common:4.32.0] C:\Users\manas\.gradle\caches\transforms-1\files-1.1\facebook-common-4.32.0.aar\92bca135e8658972de73588aebf14ed7\AndroidManifest.xml:29:9-32:66
 MERGED from [com.facebook.android:facebook-common:4.32.0] C:\Users\manas\.gradle\caches\transforms-1\files-1.1\facebook-common-4.32.0.aar\92bca135e8658972de73588aebf14ed7\AndroidManifest.xml:29:9-32:66
 	android:label
-		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:37:13-45
+		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:36:13-45
 	android:configChanges
-		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:35:13-114
+		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:35:13-96
 	android:theme
 		ADDED from [com.facebook.android:facebook-common:4.32.0] C:\Users\manas\.gradle\caches\transforms-1\files-1.1\facebook-common-4.32.0.aar\92bca135e8658972de73588aebf14ed7\AndroidManifest.xml:32:13-63
 	android:name
-		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:34:19-63
+		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:34:13-57
 activity#com.facebook.CustomTabActivity
-ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:38:9-47:20
+ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:37:9-48:20
 	android:exported
-		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:40:13-36
+		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:39:13-36
 	android:name
-		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:39:13-58
+		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:38:13-58
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/fb_login_protocol_scheme
-ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:41:13-46:29
+ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:40:13-47:29
 action#android.intent.action.VIEW
-ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:42:17-69
+ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:41:17-69
 	android:name
-		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:42:25-66
+		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:41:25-66
 category#android.intent.category.DEFAULT
 ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:43:17-76
 	android:name
@@ -211,9 +211,13 @@ ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Projec
 	android:name
 		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:44:27-75
 data
-ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:45:17-75
+ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:46:17-75
 	android:scheme
-		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:45:23-72
+		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:46:23-72
+activity#com.farmbay.RecommendationResultActivity
+ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:49:9-75
+	android:name
+		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:49:19-63
 uses-sdk
 INJECTED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml
