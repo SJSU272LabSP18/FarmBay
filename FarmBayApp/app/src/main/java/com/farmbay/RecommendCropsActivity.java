@@ -53,6 +53,7 @@ public class RecommendCropsActivity extends AppCompatActivity {
             String key = "crop"+(i+1);
             intent.putExtra(key,result.get(i));
         }
+        intent.putExtra("area",area.getText().toString());
         startActivity(intent);
     }
     private class AsyncTaskRunner extends AsyncTask<String,String , String> {

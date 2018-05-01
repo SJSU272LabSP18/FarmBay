@@ -668,6 +668,10 @@
         "source": "C:\\Users\\manas\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\3f8e95186d27aa034a70438b32df521c\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
+        "merged": "C:\\Users\\manas\\Documents\\ManishaStudies\\CMPE272\\Ranjan Project\\Project-Team-4\\FarmBayApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about.xml.flat",
+        "source": "C:\\Users\\manas\\Documents\\ManishaStudies\\CMPE272\\Ranjan Project\\Project-Team-4\\FarmBayApp\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
         "merged": "C:\\Users\\manas\\Documents\\ManishaStudies\\CMPE272\\Ranjan Project\\Project-Team-4\\FarmBayApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_facebook_tooltip_black_background.9.png.flat",
         "source": "C:\\Users\\manas\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-login-4.32.0.aar\\fa7e2def60f67f93f96b49f124b86d04\\res\\drawable-hdpi-v4\\com_facebook_tooltip_black_background.9.png"
     },

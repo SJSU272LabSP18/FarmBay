@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:2:1-52:12
-INJECTED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:2:1-52:12
-INJECTED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:2:1-52:12
-INJECTED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:2:1-52:12
+ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:2:1-53:12
 MERGED from [com.google.firebase:firebase-core:11.6.0] C:\Users\manas\.gradle\caches\transforms-1\files-1.1\firebase-core-11.6.0.aar\cd9b17feab28b88909b31f5d026cf9e0\AndroidManifest.xml:2:1-6:12
 MERGED from [com.android.support:design:27.0.2] C:\Users\manas\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\07c0d81019f817f633a290de37162f3c\AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.android:facebook-login:4.32.0] C:\Users\manas\.gradle\caches\transforms-1\files-1.1\facebook-login-4.32.0.aar\fa7e2def60f67f93f96b49f124b86d04\AndroidManifest.xml:21:1-31:12
@@ -45,20 +45,20 @@ MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.0] C:\U
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] C:\Users\manas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.6.0.aar\b4601a2e3aa386add2570b44420b94eb\AndroidManifest.xml:2:1-6:12
 MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\manas\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\85a7734ad5dcac5d295dfdc7672930e3\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:firebase-iid-license:11.6.0] C:\Users\manas\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.6.0.aar\94b247b1ceea06744c4d70648684bb1b\AndroidManifest.xml:2:1-6:12
-INJECTED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:2:1-52:12
-INJECTED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:2:1-52:12
-INJECTED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:2:1-53:12
 	package
 		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:3:5-26
 		INJECTED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:2:1-52:12
+		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:2:1-53:12
 		INJECTED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:2:1-52:12
+		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:2:1-53:12
 		INJECTED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:2:11-69
@@ -85,7 +85,7 @@ MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\manas\.gradle\cac
 	android:name
 		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:9:22-64
 application
-ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:11:5-50:19
+ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:11:5-51:19
 MERGED from [com.google.firebase:firebase-core:11.6.0] C:\Users\manas\.gradle\caches\transforms-1\files-1.1\firebase-core-11.6.0.aar\cd9b17feab28b88909b31f5d026cf9e0\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-core:11.6.0] C:\Users\manas\.gradle\caches\transforms-1\files-1.1\firebase-core-11.6.0.aar\cd9b17feab28b88909b31f5d026cf9e0\AndroidManifest.xml:5:5-20
 MERGED from [com.facebook.android:facebook-login:4.32.0] C:\Users\manas\.gradle\caches\transforms-1\files-1.1\facebook-login-4.32.0.aar\fa7e2def60f67f93f96b49f124b86d04\AndroidManifest.xml:28:5-29:19
@@ -215,9 +215,13 @@ ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Projec
 	android:scheme
 		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:46:23-72
 activity#com.farmbay.RecommendationResultActivity
-ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:49:9-75
+ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:49:9-66
 	android:name
 		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:49:19-63
+activity#com.farmbay.AboutActivity
+ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:50:9-60
+	android:name
+		ADDED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml:50:19-48
 uses-sdk
 INJECTED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\manas\Documents\ManishaStudies\CMPE272\Ranjan Project\Project-Team-4\FarmBayApp\app\src\main\AndroidManifest.xml

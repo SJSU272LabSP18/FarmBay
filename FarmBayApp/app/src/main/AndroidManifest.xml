@@ -46,7 +46,8 @@
                 <data android:scheme="@string/fb_login_protocol_scheme" />
             </intent-filter>
         </activity>
-        <activity android:name=".RecommendationResultActivity"></activity>
+        <activity android:name=".RecommendationResultActivity" />
+        <activity android:name=".AboutActivity"></activity>
     </application>
 
 </manifest>
