@@ -47,7 +47,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".RecommendationResultActivity" />
-        <activity android:name=".AboutActivity"></activity>
+        <activity android:name=".AboutActivity" />
+        <activity android:name=".MarketPaceActivity"></activity>
     </application>
 
 </manifest>

@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\manas\\Documents\\ManishaStudies\\CMPE272\\Ranjan Project\\Project-Team-4\\FarmBayApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\manas\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-auth-11.6.0.aar\\6d3e168a9f025abdab3f235194393c73\\res\\values-watch-v20\\values.xml",
+                    "source": "C:\\Users\\manas\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-auth-15.0.0.aar\\bd12633b0bc8e33e2b71cd2bc90094f5\\res\\values-watch-v20\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11",
                         "startColumns": "0,0,0,0,0,0,0,0",

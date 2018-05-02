@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\manas\\Documents\\ManishaStudies\\CMPE272\\Ranjan Project\\Project-Team-4\\FarmBayApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\manas\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\b983ed155a08afc8ef57e50bfa379bb9\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\manas\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\030c71e42f8e635863753bace2eb852b\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -15,7 +15,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manas\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-27.0.2.aar\\bc4f70636e0f0c3506ec6595d46759ba\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\manas\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-27.0.2.aar\\16dc5e19d2bff33e1cba196e1907ad10\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

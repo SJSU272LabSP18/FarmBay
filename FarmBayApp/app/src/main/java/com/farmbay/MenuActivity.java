@@ -38,7 +38,7 @@ public class MenuActivity extends AppCompatActivity {
         viewMarket.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(MenuActivity.this,CreateBidActivity.class);
+                Intent intent = new Intent(MenuActivity.this,MarketPaceActivity.class);
                 startActivity(intent);
             }
         });
@@ -46,7 +46,8 @@ public class MenuActivity extends AppCompatActivity {
         about.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
+                Intent intent = new Intent(MenuActivity.this,AboutActivity.class);
+                startActivity(intent);
             }
         });
     }

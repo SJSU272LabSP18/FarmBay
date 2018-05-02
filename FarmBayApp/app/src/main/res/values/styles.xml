@@ -23,5 +23,8 @@
         <item name="android:layout_marginBottom">10dp</item>
         <item name="android:layout_gravity">center_horizontal</item>
     </style>
+    <style name="BidDialogTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:background">@color/colorTableDim</item>
+    </style>
 
 </resources>
