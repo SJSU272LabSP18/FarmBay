@@ -1,5 +1,7 @@
 package com.farmbay;
 
+import android.util.Base64;
+
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
@@ -13,7 +15,9 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
-import java.util.Base64;
+//import java.util.Base64;
+import java.util.Arrays;
+import java.util.Comparator;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -41,8 +45,12 @@ public class MLService {
         }};
 
         String wml_auth_header = "Basic " +
-                Base64.getEncoder().encodeToString((wml_credentials.get("username") + ":" +
-                        wml_credentials.get("password")).getBytes(StandardCharsets.UTF_8));
+                Base64.encodeToString((wml_credentials.get("username") + ":" +
+                        wml_credentials.get("password")).getBytes(StandardCharsets.UTF_8),Base64.NO_WRAP);
+       /* String wml_auth_header = "Basic " +
+               Base64.getEncoder().encodeToString((wml_credentials.get("username") + ":" +
+                        wml_credentials.get("password")).getBytes(StandardCharsets.UTF_8));*/
+
         String wml_url = wml_credentials.get("url") + "/v3/identity/token";
 
         HttpURLConnection tokenConnection = null;
@@ -55,7 +63,7 @@ public class MLService {
             System.out.println("***********wml url :"+tokenUrl+"********************");
 
             tokenConnection = (HttpURLConnection) tokenUrl.openConnection();
-
+            //tokenConnection.setDoOutput(true);
             tokenConnection.setDoInput(true);
             tokenConnection.setRequestMethod("GET");
 
@@ -91,7 +99,7 @@ public class MLService {
             OutputStreamWriter writer = new OutputStreamWriter(scoringConnection.getOutputStream(), "UTF-8");
 
             // NOTE: manually define and pass the array(s) of values to be scored in the next line
-            String payload = "{\"fields\": [\"ZIP_CODE\", \"STATE_NAME\", \"MIN_HARVEST_AREA\", \"MAX_HARVEST_AREA\"], \"values\": [["+farmDetailObject.getZipcode()+",\""+farmDetailObject.getState()+"\","+farmDetailObject.getArea()+",250]]}";
+            String payload = "{\"fields\": [\"ZIP_CODE\", \"STATE_NAME\", \"MIN_HARVEST_AREA\", \"MAX_HARVEST_AREA\"], \"values\": [["+farmDetailObject.getZipcode()+",\""+farmDetailObject.getState()+"\","+farmDetailObject.getArea()+","+farmDetailObject.getMaxArea()+"]]}";
             System.out.println(payload);
             writer.write(payload);
             writer.close();
@@ -103,7 +111,9 @@ public class MLService {
                 jsonStringScoring.append(lineScoring);
             }
             ArrayList<String> cropList =  getCrops(jsonStringScoring.toString());
-            callback.navigateToResultActivity(cropList);
+            ArrayList<Double> predictionArray = getPredictionValues(jsonStringScoring.toString());
+            ArrayList<String> sortedCrop =createMapAndSort(cropList,predictionArray);
+            callback.navigateToResultActivity(sortedCrop);
             System.out.println(jsonStringScoring);
         } catch (IOException e) {
             e.printStackTrace();
@@ -136,6 +146,27 @@ public class MLService {
             for (int i = 0; i < arr3.length(); i++)
             {
                 arrCrop.add(arr3.getString(i));
+                System.out.println(arr3.toString());
+            }
+            System.out.println(arr3.toString());
+        }catch (JSONException e){
+            e.printStackTrace();
+        }
+        return arrCrop;
+    }
+    public static ArrayList getPredictionValues(String jsonString){
+        ArrayList<Double> arrCrop = new ArrayList<Double>();
+        try {
+            JSONObject cropObject = new JSONObject(jsonString);
+            JSONArray arr = cropObject.getJSONArray("values");
+            JSONArray arr2 = arr.getJSONArray(0);
+            JSONArray arr3 = arr2.getJSONArray(6);
+            //JSONArray arr4 =  arr3.getJSONArray(0);
+            for (int i = 0; i < arr3.length(); i++)
+            {
+                arrCrop.add(arr3.getDouble(i));
+                System.out.println(arrCrop.get(i));
+
             }
             System.out.println(arr3.toString());
         }catch (JSONException e){
@@ -144,5 +175,27 @@ public class MLService {
         return arrCrop;
     }
 
+    public static ArrayList<String> createMapAndSort( ArrayList<String> cropList, ArrayList<Double> predictionArray){
+        HashMap<String, Integer> map = new HashMap<>();
+        ArrayList<String> myArray = new ArrayList<String>();
+        for(int i=0;i<cropList.size();i++){
+            Double d = (predictionArray.get(i)*1000);
+            Integer myint = d.intValue();
+            map.put(cropList.get(i),myint);
+        }
+        Object[] a = map.entrySet().toArray();
+        Arrays.sort(a, new Comparator() {
+            public int compare(Object o1, Object o2) {
+                return ((Map.Entry<String, Integer>) o2).getValue()
+                        .compareTo(((Map.Entry<String, Integer>) o1).getValue());
+            }
+        });
+        for (Object e : a) {
+            myArray.add(((Map.Entry<String, Integer>) e).getKey());
+            System.out.println(((Map.Entry<String, Integer>) e).getKey() + " : "
+                    + ((Map.Entry<String, Integer>) e).getValue());
+        }
+        return myArray;
+    }
 
 }

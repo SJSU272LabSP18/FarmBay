@@ -15,16 +15,16 @@ public class RecommendationResultActivity extends AppCompatActivity {
 
     public void populateYieldMap(){
         yieldMap.put("HAY & HAYLAGE",5.7);
-        yieldMap.put("SORGHUM",3.25);
-        yieldMap.put("CORN",4.18);
-        yieldMap.put("WHEAT",1.71);
-        yieldMap.put("SOYABEANS",1.09);
-        yieldMap.put("BARLEY",1.25);
-        yieldMap.put("COTTON",0.63);
-        yieldMap.put("TOBACCO",1.15);
+        yieldMap.put("SORGHUM",3.3);
+        yieldMap.put("CORN",4.2);
+        yieldMap.put("WHEAT",1.8);
+        yieldMap.put("SOYABEANS",1.1);
+        yieldMap.put("BARLEY",1.2);
+        yieldMap.put("COTTON",0.7);
+        yieldMap.put("TOBACCO",1.2);
         yieldMap.put("PEANUTS",1.7);
-        yieldMap.put("RICE",3.81);
-        yieldMap.put("BEANS",1.09);
+        yieldMap.put("RICE",3.9);
+        yieldMap.put("BEANS",1.2);
     }
 
     @Override

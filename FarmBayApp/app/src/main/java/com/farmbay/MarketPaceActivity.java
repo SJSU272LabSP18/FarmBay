@@ -30,7 +30,8 @@ public class MarketPaceActivity extends AppCompatActivity {
             HashMap<String,String> hashMap=new HashMap<>();
             hashMap.put("name",CreateBidActivity.marketCropList.get(i).getCrop());
             //hashMap.put("qty",CreateBidActivity.marketCropList.get(i).getQuantity());
-            hashMap.put("qty","");
+            String desc = "Quantity:"+CreateBidActivity.marketCropList.get(i).getQuantity()+"  City:"+CreateBidActivity.marketCropList.get(i).getCity() + "  Min Bid:"+CreateBidActivity.marketCropList.get(i).getMin_bid();
+            hashMap.put("qty",desc);
             arrayList.add(hashMap);//add the hashmap into arrayList
         }
         String[] from={"name","qty"};//string array
@@ -62,6 +63,7 @@ public class MarketPaceActivity extends AppCompatActivity {
         alertDialog.setPositiveButton("YES",
                 new DialogInterface.OnClickListener() {
                     public void onClick(DialogInterface dialog, int which) {
+                        Toast.makeText(getApplication(), "Your bid has been placed", Toast.LENGTH_LONG).show();
 
                     }
                 });
