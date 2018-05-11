@@ -24,7 +24,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="117dp"
         android:text="FarmBay"
-        android:textColor="@color/colorComplimentry"
+        android:textColor="@color/colorPrimary"
         android:textSize="50dp"
         android:textStyle="bold" />
     <Button
